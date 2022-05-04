@@ -13,7 +13,6 @@ public class Animacion {
     private int posY;
     private Image imagen;
     
-
     public int getPosX() {
         return posX;
     }
@@ -42,9 +41,7 @@ public class Animacion {
         } catch (IOException ex) {
         }
     }
-
     public void getPosX(int i) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-
 }

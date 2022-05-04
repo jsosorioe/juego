@@ -14,6 +14,4 @@ public class Pelota extends Animacion {
         correr.start();
         this.ventana = ventana;
     }
-
-
 }
